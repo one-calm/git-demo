@@ -7,3 +7,4 @@
 谢谢程序员A
 不客气哦
 测试ssh
+测试vscode和git
